@@ -1,0 +1,10 @@
+img{
+    height: 30vh !important;
+    width: 15vw;
+}
+textarea{
+    border: none;
+}
+div,textarea{
+    color: gray;
+}
